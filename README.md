@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Sign language plays a vital role in facilitating communication for individuals with hearing impairments. However, the communication barrier between those who can speak and hear and those who use sign language can be challenging to overcome. In India alone, around 7.5-8 million people suffer from speech and hearing disabilities, and this number increases significantly on a global scale [1]. To enhance communication accessibility, we have developed a system that translates sign language gestures into text.
+Sign language plays a vital role in facilitating communication for individuals with hearing impairments. However, the communication barrier between those who can speak and hear and those who use sign language can be challenging to overcome. In India alone, around 7.5-8 million people suffer from speech and hearing disabilities, and this number increases significantly on a global scale. To enhance communication accessibility, we have developed a system that translates sign language gestures into text.
 
 ## Problem Statement
 
@@ -38,8 +38,10 @@ In summary, our system processes the hand gesture through filtering and classifi
 
 ## References
 
-[1] [Insert Reference Link Here]
-[2] [Insert Reference Link Here]
+For more details, please refer to the documentation give below and source code in this repository.
 
-For more details, please refer to the documentation and source code in this repository.
+
+[1] [[Reference Link Here](https://drive.google.com/file/d/15MjOhJrfvcQy9JtqTFWAq9jtaN0xdJL2/view?usp=sharing)]
+
+
 
